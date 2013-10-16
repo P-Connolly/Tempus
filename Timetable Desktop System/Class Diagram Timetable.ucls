@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.1" icons="false" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true">  
+  <class id="1" language="java" name="AddAccount" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/AddAccount.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="279" y="672"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="AddCourse" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/AddCourse.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-17" y="631"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="AddModule" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/AddModule.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="134" y="647"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="AddTime" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/AddTime.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="860" y="640"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="AssignUserCourse" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/AssignUserCourse.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1134" y="624"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="CrossVariables" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/CrossVariables.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-95" y="162"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="DeleteAccount" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/DeleteAccount.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-441" y="645"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="DeleteCourse" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/DeleteCourse.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-297" y="574"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="DeleteModule" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/DeleteModule.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-163" y="631"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="DeleteTime" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/DeleteTime.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="726" y="567"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="DeleteTimeGUI" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/DeleteTimeGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="708" y="136"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="LogIn" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/LogIn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="363" y="1400"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="Menu" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/Menu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="173" y="1401"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="MenuStudent" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/MenuStudent.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-15" y="1363"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="Navigator" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/Navigator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-285" y="1078"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="RemoveUserCourse" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/RemoveUserCourse.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="571" y="134"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="SearchCourse" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/SearchCourse.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="990" y="568"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="SearchResult" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/SearchResult.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="985" y="153"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="SetTimeGUI" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/SetTimeGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="851" y="144"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="TableCellLongTextRenderer" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/TableCellLongTextRenderer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="684" y="-225"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="ViewUserCourse" project="Timetable Desktop System" 
+    file="/Timetable Desktop System/src/ViewUserCourse.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="432" y="167"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      accessors="true" visibility="false">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <association id="22">    
+    <bendpoint x="869" y="908"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="23" name="addTime"/>      
+      <multiplicity id="24" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="25">    
+    <bendpoint x="622" y="807"/>    
+    <bendpoint x="631" y="454"/>    
+    <bendpoint x="570" y="452"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="26" name="removeUserCourse"/>      
+      <multiplicity id="27" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="28">    
+    <bendpoint x="-161" y="1175"/>    
+    <bendpoint x="81" y="1254"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="29" name="menu"/>      
+      <multiplicity id="30" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="31">    
+    <bendpoint x="-114" y="1175"/>    
+    <bendpoint x="142" y="1254"/>    
+    <bendpoint x="272" y="1253"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="32" name="login"/>      
+      <multiplicity id="33" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="34">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="35" name="x"/>      
+      <multiplicity id="36" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="37">    
+    <bendpoint x="1133" y="948"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="38" name="assignUserCourse"/>      
+      <multiplicity id="39" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="40">    
+    <bendpoint x="658" y="829"/>    
+    <bendpoint x="653" y="464"/>    
+    <bendpoint x="984" y="465"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="41" name="searchResult"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <bendpoint x="874" y="-103"/>    
+    <bendpoint x="976" y="-105"/>    
+    <bendpoint x="975" y="-326"/>    
+    <bendpoint x="93" y="-328"/>    
+    <bendpoint x="87" y="112"/>    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="44" name="x"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <bendpoint x="726" y="886"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="47" name="deleteTime"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="49">    
+    <bendpoint x="446" y="-229"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <association id="50">    
+    <bendpoint x="648" y="820"/>    
+    <bendpoint x="646" y="459"/>    
+    <bendpoint x="851" y="458"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="51" name="setTimeGUI"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <bendpoint x="-280" y="163"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="54" name="x"/>      
+      <multiplicity id="55" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="56">    
+    <bendpoint x="-523" y="1149"/>    
+    <bendpoint x="-551" y="467"/>    
+    <bendpoint x="-367" y="98"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="57" name="x"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="59">    
+    <bendpoint x="1088" y="451"/>    
+    <bendpoint x="1080" y="-126"/>    
+    <bendpoint x="1016" y="-127"/>    
+    <bendpoint x="1018" y="-369"/>    
+    <bendpoint x="4" y="-354"/>    
+    <bendpoint x="-169" y="22"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <association id="60">    
+    <bendpoint x="796" y="461"/>    
+    <bendpoint x="1065" y="466"/>    
+    <bendpoint x="1057" y="-110"/>    
+    <bendpoint x="999" y="-107"/>    
+    <bendpoint x="998" y="-348"/>    
+    <bendpoint x="35" y="-342"/>    
+    <bendpoint x="-41" y="37"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="61" name="x"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="63">    
+    <bendpoint x="704" y="-107"/>    
+    <bendpoint x="355" y="-117"/>    
+    <bendpoint x="305" y="61"/>    
+    <bendpoint x="161" y="209"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="64" name="x"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="66">    
+    <bendpoint x="981" y="-333"/>    
+    <bendpoint x="72" y="-332"/>    
+    <bendpoint x="57" y="54"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="67" name="x"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <bendpoint x="1052" y="457"/>    
+    <bendpoint x="1051" y="-104"/>    
+    <bendpoint x="990" y="-100"/>    
+    <bendpoint x="989" y="-342"/>    
+    <bendpoint x="52" y="-339"/>    
+    <bendpoint x="-11" y="57"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="70" name="x"/>      
+      <multiplicity id="71" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="72">    
+    <bendpoint x="580" y="-106"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <association id="73">    
+    <bendpoint x="991" y="926"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="74" name="searchCourse"/>      
+      <multiplicity id="75" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="76">    
+    <bendpoint x="362" y="338"/>    
+    <bendpoint x="45" y="325"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="77" name="x"/>      
+      <multiplicity id="78" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="79">    
+    <bendpoint x="-310" y="972"/>    
+    <bendpoint x="-308" y="843"/>    
+    <bendpoint x="-173" y="818"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="80" name="deleteModule"/>      
+      <multiplicity id="81" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="82">    
+    <bendpoint x="953" y="-219"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <dependency id="83">    
+    <bendpoint x="717" y="-109"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <dependency id="84">    
+    <bendpoint x="318" y="1563"/>    
+    <bendpoint x="-137" y="1494"/>    
+    <bendpoint x="-137" y="1400"/>    
+    <bendpoint x="-517" y="1340"/>    
+    <bendpoint x="-549" y="1234"/>    
+    <bendpoint x="-576" y="1133"/>    
+    <bendpoint x="-589" y="442"/>    
+    <bendpoint x="-383" y="49"/>    
+    <bendpoint x="-188" y="36"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <association id="85">    
+    <bendpoint x="-451" y="1077"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="86" name="deleteAccount"/>      
+      <multiplicity id="87" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="88">    
+    <bendpoint x="260" y="463"/>    
+    <bendpoint x="-69" y="472"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="89" name="x"/>      
+      <multiplicity id="90" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="91">    
+    <bendpoint x="133" y="857"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="92" name="addModule"/>      
+      <multiplicity id="93" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="94">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="95" name="menuStudent"/>      
+      <multiplicity id="96" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="97">    
+    <bendpoint x="512" y="-108"/>    
+    <bendpoint x="361" y="-107"/>    
+    <bendpoint x="357" y="199"/>    
+    <bendpoint x="90" y="280"/>    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="98" name="x"/>      
+      <multiplicity id="99" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="100">    
+    <bendpoint x="88" y="1489"/>    
+    <bendpoint x="-116" y="1479"/>    
+    <bendpoint x="-110" y="1374"/>    
+    <bendpoint x="-500" y="1322"/>    
+    <bendpoint x="-559" y="1134"/>    
+    <bendpoint x="-577" y="452"/>    
+    <bendpoint x="-376" y="63"/>    
+    <bendpoint x="-185" y="70"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="101">    
+    <bendpoint x="858" y="-116"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <association id="102">    
+    <bendpoint x="-362" y="974"/>    
+    <bendpoint x="-403" y="973"/>    
+    <bendpoint x="-290" y="755"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="103" name="deleteCourse"/>      
+      <multiplicity id="104" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="105">    
+    <bendpoint x="635" y="813"/>    
+    <bendpoint x="638" y="457"/>    
+    <bendpoint x="703" y="455"/>    
+    <bendpoint x="700" y="418"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="106" name="deleteTimeGui"/>      
+      <multiplicity id="107" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="108">    
+    <bendpoint x="236" y="902"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="109" name="addAccount"/>      
+      <multiplicity id="110" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="111">    
+    <bendpoint x="-492" y="1305"/>    
+    <bendpoint x="-534" y="1149"/>    
+    <bendpoint x="-562" y="463"/>    
+    <bendpoint x="-371" y="84"/>    
+    <bendpoint x="-166" y="115"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <association id="112">    
+    <bendpoint x="-112" y="836"/>    
+    <bendpoint x="-26" y="817"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="113" name="addCourse"/>      
+      <multiplicity id="114" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="115">    
+    <bendpoint x="608" y="799"/>    
+    <bendpoint x="623" y="462"/>    
+    <bendpoint x="538" y="461"/>    
+    <bendpoint x="540" y="414"/>    
+    <bendpoint x="519" y="414"/>    
+    <bendpoint x="504" y="416"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="116" name="viewUserCourse"/>      
+      <multiplicity id="117" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="118">    
+    <bendpoint x="904" y="469"/>    
+    <bendpoint x="1078" y="462"/>    
+    <bendpoint x="1068" y="-117"/>    
+    <bendpoint x="1009" y="-115"/>    
+    <bendpoint x="1006" y="-358"/>    
+    <bendpoint x="23" y="-348"/>    
+    <bendpoint x="-104" y="38"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="119" name="x"/>      
+      <multiplicity id="120" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+    accessors="true" visibility="false">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

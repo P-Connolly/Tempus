@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tempus Mobile</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Welcome to Tempus Mobile</string>
+	<color name="blue">#009ACD</color>
+	<string name="entercourse">Enter Course</string>
+	<string name="rt">Retrieve Timetable</string>
+	<string name="bt">Begin Timetable</string>
+	<string name="wel">Welcome to Tempus Mobile</string>
+	<string-array name="dept_array">
+        <item>Culinary Arts</item>
+        <item>Computing</item>
+        <item>Creative Digital Media</item>
+        <item>Engineering</item>
+        <item>Hospitality and Tourism</item>
+        <item>Humanities</item>
+        <item>Management</item>
+        <item>Marketing and Advertising</item>
+        <item>Science</item>
+    </string-array>
+    <string-array name="day_Array">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+	<string name="gc">Retrieve Courses</string>
+	<string name="enterdept">Enter Dept</string>
+	<string name="vd">View Day</string>
+	<string name="daychosen">Day Chosen</string>
+	<string name="selectday">Select Day</string>
+	<string name="bc">Back</string>
+	<string name="bde">Back</string>
+	<string name="bDayChosen">Back</string>
+	<string name="loginText">Login</string>
+	<string name="usernameText">Username</string>
+	<string name="login">Enter Login Details</string>
+	<string name="logoutText">Logout</string>
+	
+</resources>
